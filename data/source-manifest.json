@@ -1,0 +1,35 @@
+{
+  "project": "clinical-treatments-and-procedures-lexicon",
+  "language": "en",
+  "namespace": 0,
+  "source": "https://en.wikipedia.org/w/api.php",
+  "retrieved_utc": [
+    "2026-11-24T20:52:27.570878+00:00",
+    "2026-11-24T20:53:41.585358+00:00"
+  ],
+  "membership": "direct only; no title filter",
+  "seed_count": 354,
+  "sha256": "5ee2167938f2a521e5f35e7a49deceb2e05ea3798384971bd2eb1492b4c223db",
+  "categories": {
+    "Category:Treatments": {
+      "state": "missing",
+      "article_members": 0,
+      "immediate_subcategories": 0
+    },
+    "Category:Medical treatments": {
+      "state": "found",
+      "article_members": 248,
+      "immediate_subcategories": 33
+    },
+    "Category:Therapy": {
+      "state": "found",
+      "article_members": 67,
+      "immediate_subcategories": 17
+    },
+    "Category:Medical procedures": {
+      "state": "found",
+      "article_members": 51,
+      "immediate_subcategories": 23
+    }
+  }
+}
